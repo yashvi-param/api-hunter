@@ -1,0 +1,246 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 22999,
+      "image": "https://m.media-amazon.com/images/I/41Q9iRQgMjL._SY300_SX300_QL70_ML2_.jpg",
+      "description": "iQOO Z10 5G (Silver, 8GB RAM, 128GB Stroage) | India's Biggest Ever 7300 mAh Battery | Snapdragon 7s Gen 3 Processor | Brightest Quad Curved AMOLED Display in The Segment"
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 58490,
+      "image": "https://m.media-amazon.com/images/I/611DLBKu8JL._SX679_.jpg",
+      "description": "Dell 15, 13th Generation Intel Core i5-1334U Processor, 16GB RAM, 1TB SSD, FHD 15.6\"/39.62 cm Display, Windows 11, MSO'24, Silver, 1.62kg, Backlit Keyboard, 15 Month McAfee, Thin & Light Laptop"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 1799,
+      "image": "https://m.media-amazon.com/images/I/711l4y8aNlL._SX522_.jpg",
+      "description": "boAt Rockerz 480, RGB LEDs,6 Light Modes, 40mm Drivers,Beast Mode, 60H Battery, ENx Tech, Stream Ad Free Music via App Support, Bluetooth Headphones, Wireless Over Ear Headphone with Mic (Black Sabre)"
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 2899,
+      "image": "https://m.media-amazon.com/images/I/615Ygw5ZpBL._SX679_.jpg",
+      "description": "boAt Ultima Regal w/ 2.01”(5.10 cm) Crystal-Clear AMOLED Display, 1000 NITS Brightness,Premium Metal Body, Functional Crown, 100+ Sports Modes, Fitness Smart Watch for Men & Women (Cherry Blossom)"
+    },
+    {
+      "id": 5,
+      "name": "Air fryer",
+      "price": 2799,
+      "image": "https://m.media-amazon.com/images/I/51oYlo9Y5sL._SX679_.jpg",
+      "description": "KENT Classic Hot Air Fryer 4L 1300 W | 80% Less Oil | Instant Electric Air Fryer | Auto Cut Off | Fry, Grill, Roast, Steam, and Bake | 1 Year Warranty | Black"
+    },
+    {
+      "id": 6,
+      "name": "earbuds",
+      "price": 3899,
+      "image": "https://m.media-amazon.com/images/I/61WRrNa6BIL._SX679_.jpg",
+      "description": "Samsung Galaxy Buds Core (Black) Galaxy AI Enabled in-Ear TWS with ANC | Enriched Bass | 6 Mic Setup | IP54 | 35hrs Battery | Touch Controls"
+    },
+    {
+      "id": 7,
+      "name": "Bluetooth Speaker",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/81y8cmMBngL._SX522_.jpg",
+      "description": "Boat 2025 Launch Stone 1200 Pro, 60W Boat Signature Sound, 76.2mm Drivers, TWS,7.5H Battery, Built-in Mic, Carry Strap,IPX6, Bluetooth Speaker, Wireless Speaker, Portable Speaker (Twilight Black)"
+    },
+    {
+      "id": 8,
+      "name": "Digital Camera",
+      "price": 7999,
+      "image": "https://m.media-amazon.com/images/I/71850F1nSPL._SX522_.jpg",
+      "description": "Dual Screen 5K Digital Camera for Vlogging with Fill Light - 80MP, 16X Zoom, WiFi, YouTube/Blogging, Includes 32GB Card & 2 Batteries (X9-Black)"
+    },
+    {
+      "id": 9,
+      "name": "Printer",
+      "price": 14499,
+      "image": "https://m.media-amazon.com/images/I/61LJaZbz3cL._SX679_.jpg",
+      "description": "HP Smart Tank 580 All-in-One WiFi Colour Printer | 1 Extra Black Ink Bottle | 1+1 Year Extended Warranty on Registration| Up to 8000 Black & 6000 Colour Prints I Print,Scan & Copy for Office/Home."
+    },
+    {
+      "id": 10,
+      "name": "Scanner",
+      "price": 24640,
+      "image": "https://m.media-amazon.com/images/I/61x1hVeNkQL._SX679_.jpg",
+      "description": "HP Scanjet Pro 2000 s2 Sheet-Feed Scanner"
+    },
+    {
+      "id": 11,
+      "name": "Wi-Fi Router",
+      "price": 1790,
+      "image": "https://m.media-amazon.com/images/I/61x48+I4t7L._SX679_.jpg",
+      "description": "TP-Link Archer C50 AC1200 Dual Band Wireless Cable Router, Wi-Fi Speed Up to 867 Mbps/5 GHz + 300 Mbps/2.4 GHz, Supports Parental Control, Guest Wi-Fi, VPN (Black)"
+    },
+    {
+      "id": 12,
+      "name": "Keyboard",
+      "price": 70,
+      "image": "https://m.media-amazon.com/images/I/71uKU6o11zL._SX522_.jpg",
+      "description": "Kreo Swarm 75% Wireless Mechanical Keyboard with Pass-Through Keycaps, Pre-lubed Switches, 5-pin Hot Swap PCB and 5 Layers Sound Absorption, Software Support(Black Purple, Starling Switches)"
+    },
+    {
+      "id": 13,
+      "name": "Mouse",
+      "price": 997,
+      "image": "https://m.media-amazon.com/images/I/51yzr0iaXzL._SX522_.jpg",
+      "description": "cimetech Dual Mode (BT 5.1+2.4G) Wireless Mouse with LED Lights, Silent Portable Lightweight Rechargeable Mouse for Laptop, Compatible with Mac OS/Windows/Chrome OS - Black"
+    },
+    {
+      "id": 14,
+      "name": "Power Bank",
+      "price": 5489,
+      "image": "https://m.media-amazon.com/images/I/51t3tjvTlVL._SX679_.jpg",
+      "description": "Anker Power Bank, 20,000mAh with Built-in USB-C Cable, 87W Max Fast Charging (PowerCore 20K for Laptop) Lenovo, HP, Dell, Microsoft, MacBook, iPad, iPhone, Apple Watches, Samsung and More - Black"
+    },
+    {
+      "id": 15,
+      "name": "External Hard Drive",
+      "price": 13999,
+      "image": "https://m.media-amazon.com/images/I/71A1E3fXiqL._SX679_.jpg",
+      "description": "Seagate One Touch 5TB External HDD with Password Protection – Silver, for Windows and Mac, with 3 yr Data Recovery Services, (STKZ5000401)"
+    },
+    {
+      "id": 16,
+      "name": "Gaming Console",
+      "price": 5499,
+      "image": "https://m.media-amazon.com/images/I/51+BVgUZdYL._SX522_.jpg",
+      "description": "Rediscover Gaming Magic with Cubonic VividGo Mi7 – Sleek Handheld Console, Huge 20k+ Game Library & Immersive HD Screen of 4.3 LED Display, 64GB Storage, HDMI Output, 2000mAh Battery"
+    },
+    {
+      "id": 17,
+      "name": "Microwave Oven",
+      "price": 14990,
+      "image": "https://m.media-amazon.com/images/I/61n-dJ0vUAL._SX679_.jpg",
+      "description": "IFB 30L Convection Microwave Oven with 101 Standard Cook Menus (30BRC2, Black, 360 Degree Motorized Rotisserie, Weight Defrost, Steam Clean, Grill & 4 combi cook modes, 10 Power Levels)"
+    },
+    {
+      "id": 18,
+      "name": "Refrigerator",
+      "price": 69990,
+      "image": "https://m.media-amazon.com/images/I/61fvqo8WlhL._SY741_.jpg",
+      "description": "Samsung 550 L, Convertible, Digital Inverter, Frost Free French Door Refrigerator (RF57A5032S9/TL, Silver, Refined Inox)."
+    },
+    {
+      "id": 19,
+      "name": "Washing Machine",
+      "price": 29990,
+      "image": "https://m.media-amazon.com/images/I/71monhjom+L._SY741_.jpg",
+      "description": "Samsung 7 kg, 5 Star, AI Control, Wi-Fi, Digital Inverter, Motor, Fully-Automatic Front Load Washing Machine (WW70T502NAN1TL, Hygiene Steam, Inox)"
+    },
+    {
+      "id": 20,
+      "name": "Air Conditioner",
+      "price": 43490,
+      "image": "https://m.media-amazon.com/images/I/61lQM8bZDBL._SX679_.jpg",
+      "description": "LG 1.5 Ton 3 Star Hot & Cold, DUAL Inverter Split AC (Copper, Convertible 5-in-1, VIRAAT Mode, 4 Way Swing, HD Filter with Anti-Virus Protection, US-H18VNXE, White)"
+    },
+    {
+      "id": 21,
+      "name": "Vacuum Cleaner",
+      "price": 119999,
+      "image": "https://m.media-amazon.com/images/I/619AIIyQSHL._SX679_.jpg",
+      "description": "ECOVACS DEEBOT T80 Omni 2 in 1 Robot Vacuum Cleaner & Mop, 2025 New Launch, 18000 Pa, 6400 mAh Battery, OZMO Roller Real-Time Mop Washing, Self-Emptying, Hot Air Drying, AI ReMop 2.0, ZeroTangle 3.0."
+    },
+    {
+      "id": 22,
+      "name": "Electric Iron",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/51YoZ-I6nuL._SX679_.jpg",
+      "description": "PHILIPS Stainless_Steel Heavyweight Dry Iron Gc181/8-1000 Watts Power, Black Non-Stick Soleplate, Ergonomic Grip"
+    },
+    {
+      "id": 23,
+      "name": "Projector",
+      "price": 27390,
+      "image": "https://m.media-amazon.com/images/I/61DsQ9p0a8L._SX522_.jpg",
+      "description": "WZATCO Legend Optimus, Netflix Certified, Smart Home Projector 4k Ultra HD, Native 1080P Fully Automatic, 2000 ANSI, HDMI ARC, WiFi 6 & BT, Screen Mirroring, Portable Room Cinema, Sealed, Black"
+    },
+    {
+      "id": 24,
+      "name": "UPS",
+      "price": 14249,
+      "image": "https://m.media-amazon.com/images/I/71LEJ9pxuyL._SX679_.jpg",
+      "description": "Artis Powersafe 1500VA / 900W Longer Backup UPS (4 x 9AH Batteries) for Personal/Gaming Computers, Desktop PCs, Laptops, Routers, Networking Devices and Gaming Consoles."
+    },
+    {
+      "id": 25,
+      "name": "Calculator",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/61qhudCiioL._SX522_.jpg",
+      "description": "CBK Calculator with Ruffpad Notepad 2-in-1 Calculator & LCD Writing Pad with 7.5 Inches Tablet, 12 Digits, Stylus Pen for Students, Birthday Gift, Kids, Toys, School, Office, Corporate"
+    },
+    {
+      "id": 26,
+      "name": "DVD Player",
+      "price": 12286,
+      "image": "https://m.media-amazon.com/images/I/713ds2bfYDL._SX522_.jpg",
+      "description": "Philips DVD Players for TV with HDMI Port 1080P All Region HD DVD Player for Smart TV USB Input Remote Control Device and RCA Cable Mini DVD CD Player for Home Stereo System Multi Region PAL/NTSC"
+    },
+    {
+      "id": 27,
+      "name": "Remote Control",
+      "price": 2399,
+      "image": "https://m.media-amazon.com/images/I/81WIBrYHpSL._SL1500_.jpg",
+      "description": "GRAPHENE RC 4X4 WD Double Smoke Hand Sensor Stunt Drift Toy Car 360° Gesture Control Car for Kids Remote Control Sports Racing RGB Lights Rechargeable Spray Mist 4+ 5+ 6+ 7+ 8+ Years"
+    },
+    {
+      "id": 28,
+      "name": "CCTV Camera",
+      "price": 15499,
+      "image": "https://m.media-amazon.com/images/I/61EC6vfTO-L._SX679_.jpg",
+      "description": "HIKVISION 4 Channel DVR with 5 MP 4 Bullet Cameras with Audio Recording + 1 TB HDD + (3+1) Cable roll + 4 CH Power Supply + USEWELL BNC & DC Full Combo Kit"
+    },
+    {
+      "id": 29,
+      "name": "Smart Door Lock",
+      "price": 22490,
+      "image": "https://m.media-amazon.com/images/I/71qYfcnuoVL._SX679_.jpg",
+      "description": "Qubo Smart Door Lock Select (Copper) + Video Doorbell Pro Combo | Instant Visitor Video Call | Remote Unlock | 2-Way Talk | AI Person Detection Alerts | One App Control | Fingeprint & Passcode Unlock"
+    },
+    {
+      "id": 30,
+      "name": "Modem",
+      "price": 8999,
+      "image": "https://m.media-amazon.com/images/I/51VnHO6wC5L._SX679_.jpg",
+      "description": "TP-Link Deco BE25(1-Pack) Dual Band BE5000 Whole Home Mesh WiFi 7 System| 8K Streaming | 5 Gbps Router | 2×2.5 Gbps Gigabit, 4K-QAM, 4 Antennas | VPN, MU-MIMO | Works with Alexa and Google Assistant"
+    },
+    {
+      "id": 31,
+      "name": "ATTA CHAKKI",
+      "price": 17298,
+      "image": "https://m.media-amazon.com/images/I/51tQybSRyTL._SX679_.jpg",
+      "description": "2 in 1 Arena Automatic Flourmill with Vacuum Cleaning | Capacity 7-10 kg/Hour, 1HP Motor, 0.75 Unit/Hr | Anaj-Masala Grinding | Gharghanti, Auto Clean, Atta Chakki."
+    },
+    {
+      "id": 32,
+      "name": "Television",
+      "price": 66990,
+      "image": "https://m.media-amazon.com/images/I/818vnFP09yL._SX522_.jpg",
+      "description": "TCL 164 cm (65 inches) 4K UHD Smart QD-Mini LED Google TV 65Q6C"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6421",
+      "products": [
+        {
+          "id": 4,
+          "name": "Smartwatch",
+          "price": 2899,
+          "image": "https://m.media-amazon.com/images/I/615Ygw5ZpBL._SX679_.jpg",
+          "description": "boAt Ultima Regal w/ 2.01”(5.10 cm) Crystal-Clear AMOLED Display, 1000 NITS Brightness,Premium Metal Body, Functional Crown, 100+ Sports Modes, Fitness Smart Watch for Men & Women (Cherry Blossom)",
+          "quantity": 1
+        }
+      ],
+      "totalAmount": 2899,
+      "status": "pending",
+      "CreateAt": "2026-01-29T08:30:22.213Z"
+    }
+  ]
+}
