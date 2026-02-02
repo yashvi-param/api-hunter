@@ -1,16 +1,140 @@
-# React + Vite
+🛍️ React Product Cart Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based product listing and cart application.
+It fetches product data from an API, displays products using React-Bootstrap, and allows users to add items to a cart with quantity management.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fetch products from REST API
 
-## React Compiler
+Display products in responsive cards
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Add products to cart
 
-## Expanding the ESLint configuration
+Increase quantity for existing cart items
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Cart modal with product list
+
+Loading & error handling
+
+Custom reusable HTTP hook
+
+Clean UI using React-Bootstrap
+
+🧰 Technologies Used
+
+React
+
+React Hooks (useState, useEffect)
+
+Axios
+
+Custom Hook (useHttp)
+
+React-Bootstrap
+
+Bootstrap
+
+REST API
+
+JavaScript (ES6)
+
+📁 Project Structure
+src
+│── components
+│   ├── Product.jsx
+│   ├── Navbar.jsx
+│   ├── CartModal.jsx
+│   ├── Loading.jsx
+│   └── Error.jsx
+│
+│── hooks
+│   └── http.js
+│
+│── App.jsx
+│── main.jsx
+
+🔗 API Used
+GET http://localhost:5000/products
+
+
+Expected product object format:
+
+{
+  "id": 1,
+  "name": "Product Name",
+  "description": "Product description",
+  "price": 999,
+  "image": "image_url"
+}
+
+🛒 Cart Functionality
+
+When Add to Cart is clicked:
+
+If product already exists → quantity increases
+
+If new product → added with quantity = 1
+
+Cart count is displayed in the navbar
+
+Cart opens in a modal
+
+Option to clear cart
+
+⏳ Loading & Error Handling
+
+Loading component shown while fetching data
+
+Error component shown if API fails or returns invalid data
+
+Managed using a custom useHttp hook
+
+▶️ How to Run the Project
+
+Clone the repository
+
+git clone <repository-url>
+
+
+Install dependencies
+
+npm install
+
+
+Start the backend server (example using json-server)
+
+json-server --watch db.json --port 5000
+
+
+Start the React app
+
+npm run dev
+
+🎨 UI Library
+
+React-Bootstrap components used:
+
+Container
+
+Row / Col
+
+Card
+
+Button
+
+Modal
+
+Navbar
+
+📌 Future Improvements
+
+Remove alert and show toast notification
+
+Persist cart using localStorage
+
+Add product details page
+
+Add checkout functionality
+
+Authentication (Login / Signup)
