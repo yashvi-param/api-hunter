@@ -1,9 +1,12 @@
+<img width="1898" height="940" alt="Screenshot 2026-02-03 104924" src="https://github.com/user-attachments/assets/dacffba4-8d2b-498e-af00-a41fcfd298b6" />
+
 🛍️ React Product Cart Application
 
 This is a React-based product listing and cart application.
 It fetches product data from an API, displays products using React-Bootstrap, and allows users to add items to a cart with quantity management.
 
 🚀 Features
+
 
 Fetch products from REST API
 
